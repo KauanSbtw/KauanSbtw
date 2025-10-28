@@ -1,6 +1,6 @@
 ## Fala aí! Eu sou o KauanSbtw :D
 
-- Tenho 18 anos
+- Tenho 18 anos 💍
 - Pronomes: Ele/Dele
 - Moro em São Paulo
 - Full Stack
