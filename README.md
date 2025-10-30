@@ -26,8 +26,11 @@
 
 ##
 
+ᓚᘏᗢ
+
 <div>
-  <a href = "contatokauanbtw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <h3>contatokauanbtw@gmail.com</h3>
 </div>
 
 
